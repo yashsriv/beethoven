@@ -1,0 +1,15 @@
+[submodule "dashboard-frontend"]
+	path = dashboard-frontend
+	url = https://github.com/yashsriv/dashboard-frontend.git
+[submodule "dashboard-http"]
+	path = dashboard-http
+	url = https://github.com/yashsriv/dashboard-http.git
+[submodule "student-search"]
+	path = student-search
+	url = https://github.com/pclubiitk/student-search.git
+[submodule "auto-aggregator"]
+	path = auto-aggregator
+	url = https://github.com/milindl/auto-aggregator
+[submodule "dashboard-timetable"]
+	path = dashboard-timetable
+	url = https://github.com/subhdeep/dashboard-timetable
